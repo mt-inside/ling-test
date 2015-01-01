@@ -1,0 +1,3 @@
+kernel = "vmling"
+name = "foo"
+memory = 512
